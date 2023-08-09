@@ -1,0 +1,8 @@
+/* Responsive */
+@media (max-width : 1440px) {
+	.showcase__content {
+		max-width: 1280px;
+		margin: 0 auto;
+	}
+}
+/* Responsive */
